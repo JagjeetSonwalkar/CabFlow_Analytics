@@ -1,4 +1,4 @@
-# CabFlow Analytics Dashboard (July 2024)
+# CabFlow Analytics (July 2024)
 
 A Power BI project analyzing 103,024 cab ride bookings to understand booking performance,
 vehicle-type economics, revenue, cancellations, and service ratings.
